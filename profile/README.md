@@ -20,11 +20,13 @@ With Wijmo, spend more time on your application's core functionality and take ad
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/web-components">Web Components</a></div>
             <div class="controlanchorlink">TypeScript</div>
             <div class="controlanchorlink">ES6</div>
+            <br>
             <div><p class="controlcategory">COMMON</p></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/docs/GettingStarted/Events">Events</a></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/demos/Core/Globalization/Formatting/purejs">Globalization</a></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/demos/Core/Glyphs/purejs">Glyphs</a></div>
-            <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/docs/GettingStarted/Wijmo-Sass#custom-themes">Themes</a></div>  
+            <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/docs/GettingStarted/Wijmo-Sass#custom-themes">Themes</a></div> 
+            <br>
             <div><p class="controlcategory">DATA MANAGEMENT</p></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/javascript-collection-view">CollectionView</a></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/demos/Core/CollectionView/RESTCollectionView/JSONPlaceholder/purejs">REST</a></div>
@@ -32,6 +34,7 @@ With Wijmo, spend more time on your application's core functionality and take ad
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/demos/Cloud/Firestore/Overview/purejs">Firestore</a></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/demos/Cloud/Firestore/OAuth/purejs">OAuth</a></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/javascript-olap-pivot-table-component">OLAP</a></div>
+            <br>
             <div><p class="controlcategory">PRINTING & DOCS</p></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/demos/Core/PrintDocument/purejs">Print Document</a></div>
             <div class="controlanchorlink"><a target="_self" href="https://www.grapecity.com/wijmo/demos/PDF/Overview/purejs">PDF</a></div>
