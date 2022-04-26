@@ -71,24 +71,24 @@ With Wijmo, spend more time on your application's core functionality and take ad
 	</tr>
 </table>
 
-# Demos and documentation
+## Demos and documentation
 Wijmo offers users an extensive list of demos, documentation and API references for each of its components:
 - [Demos](https://www.grapecity.com/wijmo/demos/)
 - [Documentation](https://www.grapecity.com/wijmo/docs/GettingStarted/Introduction)
 - [API References](https://www.grapecity.com/wijmo/api/)
 
 ## Licensing and Distribuion
-<b>Licensing FAQS</b>
+<b>Licensing FAQS</b><br>
 Wijmo is licensed per developer. Once you purchase a copy, generate a distribution key and deploy your app. With every developer license, you'll receive perpetual distribution licenses
 
 [Learn more about licensing](https://www.grapecity.com/licensing/wijmo)
 
-<b>Become an OEM Partner</b>
+<b>Become an OEM Partner</b><br>
 To create your own commercially-licensed SDK, or web application builder, choose the Commercial OEM license. Commercial OEM and SaaS licenses are customized for each customer.
 
 [Become an OEM partner](https://www.grapecity.com/sales/oem/)
 
-<b>End-User Licensing Agreement</b>
+<b>End-User Licensing Agreement</b><br>
 Our End-User License Agreement (EULA) includes in-depth information on Wijmo's licensing, legal agreement, and the terms and conditions that govern software usage. 
 
 [Read the EULA](https://global-cdn.grapecity.com/en/eula/wj/20210824-wijmo-eula.pdf)
